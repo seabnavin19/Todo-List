@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "To java Exercise",
+      "completed": false,
+      "date": "not sure"
+    },
+    {
+      "id": 1,
+      "name": "sdfasdf",
+      "completed": false,
+      "date": "2020-9-22 15:46:56"
+    },
+    {
+      "id": 2,
+      "name": "Get some pizza",
+      "completed": false,
+      "date": "not sure"
+    }
+  ]
+}
